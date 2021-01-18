@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) starting place. This repo is mainly a place to keep all editor and project configurations normally used to boostrap projects.
 
 ## Getting Started
 
@@ -26,6 +26,14 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Included
+
+This repo includes only setup configurations.
+
+- [Prettier](https://prettier.io/) - Opinionated Code Formatter
+- [ESLint](https://eslint.org/) - Find and fix problems in your JavaScript code. Setup for NextJS/Typescript workspace. Including sorting imports and a11y.
+- [VSCode](https://code.visualstudio.com/) - Editor config to format and lint on save.
 
 ## Deploy on Vercel
 
